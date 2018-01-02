@@ -1,0 +1,4 @@
+sum=com.kileto.dubbo.spi.impl.Sum
+subtraction=com.kileto.dubbo.spi.impl.Subtraction
+wrapper1=com.kileto.dubbo.spi.wrapper.CalculatorWrapper1
+wrapper2=com.kileto.dubbo.spi.wrapper.CalculatorWrapper2
